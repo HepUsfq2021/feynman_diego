@@ -24,3 +24,4 @@ License
 -------
 
 feynman is released under the GNU GPL License.
+cambiando el archivo readme.md
